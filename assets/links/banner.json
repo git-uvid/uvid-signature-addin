@@ -1,0 +1,8 @@
+{
+    "validFrom": "2026-03-01T00:00:00Z",
+    "validTo": "2026-12-31T23:59:59Z",
+    "imageUrl": "https://raw.githubusercontent.com/git-uvid/uvid-signature-addin/main/assets/image/banner/banner.png",
+    "targetUrl": "https://www.uvidconsulting.com/promotions",
+    "width": 600,
+    "maxWidth": "100%"
+}

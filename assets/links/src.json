@@ -1,0 +1,24 @@
+{
+    "companyLogo": {
+        "url": "https://raw.githubusercontent.com/git-uvid/uvid-signature-addin/main/assets/image/uvid/uvid_mail.png",
+        "width": 230,
+        "maxWidth": "230"
+    },
+    "socialIcons": {
+        "linkedin": {
+            "url": "https://raw.githubusercontent.com/git-uvid/uvid-signature-addin/main/assets/image/socialMedia/linkedin.png",
+            "width": 24,
+            "height": 24
+        },
+        "youtube": {
+            "url": "https://raw.githubusercontent.com/git-uvid/uvid-signature-addin/main/assets/image/socialMedia/youtube.png",
+            "width": 24,
+            "height": 24
+        },
+        "instagram": {
+            "url": "https://raw.githubusercontent.com/git-uvid/uvid-signature-addin/main/assets/image/socialMedia/instagram.png",
+            "width": 24,
+            "height": 24
+        }
+    }
+}
